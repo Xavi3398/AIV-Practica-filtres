@@ -6,5 +6,5 @@ Executar desde consola amb:
 
 on:
 * --filter= "particles" o "kalman"
-* --out_path="ruta/nom_video.mp4"
+* --out_path="ruta\nom_video.mp4"
 * --show_boxes si es vol mostrar més informació que sols la galleta.
